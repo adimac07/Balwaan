@@ -1,0 +1,197 @@
+TABLE 1- Calls vs Orders vs Revenue vs Spent Updated till 18th May'25																					
+Date	Day	FAE Count	Targeted Calls	Total Calls	Unique Calls	Total Orders	Verified Orders	Verification%	Targ. Ver. Revenue	Verified Revenue	Total Spent Targ.	Total Spent	Spent%	Cost Per Call	Cost Per Ver. Order	Calls Achievement %	Revenue Achievement%	Conversion%	Create Revenue	Delivered Order	Delivered Revenue
+Apr'2025		420	44,450	39,430	35,238	730	350	47.95%	67,96,867	47,75,740	4,56,560	5,79,000	126.82%	16	1,654	79.28%	70.26%	0.99%	1,10,85,529	246	32,52,710
+01-May-25	Thursday	13	1,500	1,642	1,507	33	21	63.64%	2,83,000	3,57,490	22,500	28,568	126.97%	19	1,360	100.47%	126.32%	1.39%	5,88,370	6	1,04,540
+02-May-25	Friday	12	1,500	1,504	1,367	29	17	58.62%	2,83,000	1,95,955	22,500	25,021	111.20%	18	1,472	91.13%	69.24%	1.24%	4,48,290	16	2,20,850
+03-May-25	Saturday	13	1,500	1,486	1,378	33	18	54.55%	2,83,000	1,55,335	22,500	26,768	118.97%	19	1,487	91.87%	54.89%	1.31%	2,64,035	13	1,65,350
+04-May-25	Sunday	14	1,500	1,317	1,205	32	13	40.63%	2,83,000	1,42,800	22,500	23,486	104.38%	19	1,807	80.33%	50.46%	1.08%	5,72,650	1	135
+05-May-25	Monday	13	1,500	1,559	1,447	26	12	46.15%	2,83,000	1,86,850	22,500	18,472	82.10%	13	1,539	96.47%	66.02%	0.83%	4,49,450	15	1,55,745
+06-May-25	Tuesday	13	1,500	1,261	1,183	31	13	41.94%	2,83,000	2,49,840	22,500	20,645	91.76%	17	1,588	78.87%	88.28%	1.10%	5,09,955	11	1,69,240
+07-May-25	Wednesday	15	1,500	1,091	1,036	29	11	37.93%	2,83,000	1,35,485	22,500	18,425	81.89%	18	1,675	69.07%	47.87%	1.06%	4,68,295	6	1,24,500
+08-May-25	Thursday	13	1,500	1,199	1,118	22	12	54.55%	2,83,000	1,29,950	22,500	20,500	91.11%	18	1,708	74.53%	45.92%	1.07%	3,05,545	11	1,37,385
+09-May-25	Friday	15	1,500	1,508	1,414	30	16	53.33%	2,83,000	2,23,025	22,500	24,381	108.36%	17	1,524	94.27%	78.81%	1.13%	4,79,825	5	53,675
+10-May-25	Saturday	12	1,500	1,407	1,294	25	15	60.00%	2,83,000	2,21,250	22,500	24,573	109.21%	19	1,638	86.27%	78.18%	1.16%	3,60,350	9	1,59,600
+11-May-25	Sunday	13	1,500	1,394	1,305	32	15	46.88%	2,83,000	2,00,000	22,500	23,823	105.88%	18	1,588	87.00%	70.67%	1.15%	4,32,960	7	47,900
+12-May-25	Monday	13	1,500	1,384	1,280	27	11	40.74%	2,83,000	1,77,850	22,500	26,113	116.06%	20	2,374	85.33%	62.84%	0.86%	5,00,665	8	1,49,900
+13-May-25	Tuesday	14	1,500	1,429	1,324	35	17	48.57%	2,83,000	2,46,125	22,500	25,165	111.85%	19	1,480	88.27%	86.97%	1.28%	5,47,090	7	85,450
+14-May-25	Wednesday	15	1,500	1,654	1,549	25	15	60.00%	2,83,000	2,03,775	22,500	23,759	105.59%	15	1,584	103.27%	72.01%	0.97%	3,68,575	10	1,36,809
+15-May-25	Thursday	16	1,500	1,726	1,631	40	19	47.50%	2,83,000	3,13,030	22,500	25,655	114.02%	16	1,350	108.73%	110.61%	1.16%	6,64,730	6	61,150
+16-May-25	Friday	14	1,500	1,482	1,395	24	11	45.83%	2,83,000	1,38,150	22,500	23,148	102.88%	17	2,104	93.00%	48.82%	0.79%	3,63,270	3	22,740
+17-May-25	Saturday	15	1,500	1,480	1,362	32	16	50.00%	2,83,000	2,64,550	22,500	26,949	119.77%	20	1,684	90.80%	93.48%	1.17%	4,66,450	2	21,750
+18-May-25	Sunday	12	1,500	1,154	1,082	31	12	38.71%	2,83,000	1,86,750	22,500	24,080	107.02%	22	2,007	72.13%	65.99%	1.11%	4,69,800	0	0
+19-May-25	Monday	14	1,500	1,360	1,255	48	21	43.75%	2,83,000	3,08,950	22,500	25,433	113.04%	20	1,211	83.67%	109.17%	1.67%	7,51,800	0	0
+20-May-25	Tuesday	15	1,500	1,290	1,188	41	13	31.71%	2,83,000	1,68,850	22,500	24,311	108.05%	20	1,870	79.20%	59.66%	1.09%	7,03,988	0	0
+Grand Total		274	30,000	28,327	26,320	625	298	47.68%	56,60,000	42,06,010	4,50,000	4,79,276	106.51%	18	1,608	87.73%	74.31%	1.13%	97,16,093	136	18,16,719
+
+
+TABLE 2- Calls vs Orders vs Revenue vs Spent Updated till 31st Jan'24																				
+Date	Day		Targeted Calls		Unique Calls	Total Orders	Verified Orders	Verification%	Targ. Ver. Revenue	Verified Revenue				Total Spent		Cost Per Call	Cost Per Ver. Order	Calls Achievement %		Revenue Achievement%
+Dec'2023			37,620		36,935	589	315	53.48%	55,80,000	27,83,894				6,57,656		18	2,088	98.18%		49.89%
+01-Jan-24	Monday		1,200	15	0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+02-Jan-24	Tuesday		1,200		0	0	0	0.00%	1,80,000	0		1,00,33,35,999		0		0	0	0.00%		0.00%
+03-Jan-24	Wednesday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+04-Jan-24	Thursday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+05-Jan-24	Friday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+06-Jan-24	Saturday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+07-Jan-24	Sunday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+08-Jan-24	Monday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+09-Jan-24	Tuesday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+10-Jan-24	Wednesday		1,200		0	0	0	0.00%	1,80,000	0				0		0	0	0.00%		0.00%
+Grand Total			12,000		0	0	0	#DIV/0!	18,00,000	0				0		0	0	0.00%		0.00%
+
+
+TABLE 3- Campaign Wise Calls vs Orders vs Revenue vs Spent Updated till 13th May'25										
+Campaign	DID Number	Avg Selling Price	Unique Calls	Total Orders	Verified Orders	Verified Revenue	Total Spent	Cost Per Call	Cost Per Order	Conversion%
+Brush Cutter	1416727777	14,900	2,167	35	19	2,50,920	47,646	22	2,508	0.88%
+BX-50 Kashmir	9240011113	14,900	365	23	15	1,77,800	9,335	26	622	4.11%
+Power Weeder	1416727711	38,000	3,885	48	22	8,00,130	1,11,574	29	5,072	0.57%
+Mini Tiller BW-25	9240011117	38,000	700	54	16	2,99,280	17,211	25	1,076	2.29%
+Water Pump	1416727717	12,900	6,672	47	28	3,72,055	78,653	12	2,809	0.42%
+Pressure Washer	1416727720	4,650	4,519	169	99	5,33,390	91,210	20	921	2.19%
+Earth Auger	1416727733	16,900	2,421	116	42	5,14,780	74,396	31	1,771	1.73%
+Power Weeder (HP)	1416727744	39,900	14	0	0	0	630	45	0	0.00%
+Chaff Cutter	9240011116	-	4,658	76	23	5,07,900	36,098	8	1,569	0.49%
+Battery Sprayer	9240011109	-	339	12	10	55,475	8,709	26	871	2.95%
+Other	-	-	504	634	431	6,55,500	0	0	0	85.52%
+Power-Weeder- Raj	1416727772	-	76	2	1	38,780	3,813	50	3,813	1.32%
+Himachal Leads_B2B	1416727722	-	14	0	0	0	1,587	113	0	0.00%
+Power Weeder Leads	1416727773	-	12	0	0	0	1,721	143	0	0.00%
+Grand Total			26,320	1,216	706	42,06,010	4,79,276	18	679	1.06%
+
+
+TABLE 4- Campaign Wise Calls vs Orders vs Revenue vs Spent Updated till 31st Jan'24									
+Campaign	DID Number		Unique Calls	Total Orders	Verified Orders	Verified Revenue	Total Spent	Cost Per Call	Cost Per Order
+Battery Sprayer	1416727774		339	#REF!	#REF!	#REF!	8,709	26	0
+BBC Back Pack	1416727766		0	#REF!	#REF!	#REF!	0	0	0
+BBC Side Pack	1416727777		0	#REF!	#REF!	#REF!	0	0	0
+Earth Auger	1416727733		2421	#REF!	#REF!	#REF!	74,396	31	0
+Forester Chain Saw	1416727788		0	#REF!	#REF!	#REF!	0	0	0
+Kashmir BBC	1416727722		0	#REF!	#REF!	#REF!	0	0	0
+Mini Tiller	1416727711		0	#REF!	#REF!	#REF!	0	0	0
+Portable Sprayer	1416727720		0	#REF!	#REF!	#REF!	0	0	0
+Power Reaper	1416727772		0	#REF!	#REF!	#REF!	0	0	0
+Water Pump	1416727717		6672	#REF!	#REF!	#REF!	78,653	12	0
+Battery_Sprayer	1416727771		0	#REF!	#REF!	#REF!	0	0	0
+Chaff Cutter	Lead Fom		4658	#REF!	#REF!	#REF!	36,098	8	0
+Balwaan Chain Saw	Lead Fom		0	#REF!	#REF!	#REF!	0	0	0
+Other	-		504	147	#REF!	#REF!	0	0	0
+Grand Total			14,594	#REF!	#REF!	#REF!	1,97,857	14	#REF!
+
+
+TABLE 5- Brush Cutter			1416727777	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	700	946	836	119.43%
+Week 2	700	930	804	114.86%
+15-May-25	100	122	117	117.00%
+16-May-25	100	123	111	111.00%
+17-May-25	100	100	87	87.00%
+18-May-25	100	81	72	72.00%
+19-May-25	100	92	74	74.00%
+20-May-25	100	77	66	66.00%
+Grand Total	2,000	2,471	2,167	108.35%
+
+
+TABLE 6- Power Weeder			1416727711	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	2,650	1,487	1,352	51.02%
+Week 2	2,650	1,479	1,357	51.21%
+15-May-25	250	266	243	97.20%
+16-May-25	250	252	230	92.00%
+17-May-25	250	202	186	74.40%
+18-May-25	250	172	162	64.80%
+19-May-25	250	169	160	64.00%
+20-May-25	250	207	195	78.00%
+Grand Total	6,800	4,234	3,885	57.13%
+
+
+TABLE 7- Mini Tiller BW-25			9240011117	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	150	22	21	14.00%
+Week 2	150	359	330	220.00%
+15-May-25	150	53	53	35.33%
+16-May-25	150	64	60	40.00%
+17-May-25	150	78	67	44.67%
+18-May-25	150	61	54	36.00%
+19-May-25	150	58	54	36.00%
+20-May-25	150	69	61	40.67%
+Grand Total	1,200	764	700	58.33%
+
+
+TABLE 8- Water Pump			1416727717	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	2,100	2,752	2,633	125.38%
+Week 2	2,100	2,526	2,438	116.10%
+15-May-25	300	417	404	134.67%
+16-May-25	300	308	298	99.33%
+17-May-25	300	247	234	78.00%
+18-May-25	300	203	196	65.33%
+19-May-25	300	294	284	94.67%
+20-May-25	300	195	185	61.67%
+Grand Total	6,000	6,942	6,672	111.20%
+
+
+TABLE 9- Pressure Washer			1416727720	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	2,100	1,786	1,646	78.38%
+Week 2	2,100	1,499	1,386	66.00%
+15-May-25	300	332	312	104.00%
+16-May-25	300	245	232	77.33%
+17-May-25	300	290	262	87.33%
+18-May-25	300	215	203	67.67%
+19-May-25	300	253	236	78.67%
+20-May-25	300	256	242	80.67%
+Grand Total	6,000	4,876	4,519	75.32%
+
+
+TABLE 10- Chaff Cutter			9240011116	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	1,400	1,769	1,657	118.36%
+Week 2	1,400	1,699	1,598	114.14%
+15-May-25	200	290	272	136.00%
+16-May-25	200	249	240	120.00%
+17-May-25	200	303	289	144.50%
+18-May-25	200	207	193	96.50%
+19-May-25	200	241	222	111.00%
+20-May-25	200	204	187	93.50%
+Grand Total	4,000	4,962	4,658	116.45%
+
+
+TABLE 11- Earth Auger			1416727733	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	1,400	578	546	39.00%
+Week 2	1,400	967	915	65.36%
+15-May-25	200	171	160	80.00%
+16-May-25	200	173	161	80.50%
+17-May-25	200	182	172	86.00%
+18-May-25	200	139	129	64.50%
+19-May-25	200	172	159	79.50%
+20-May-25	200	191	179	89.50%
+Grand Total	4,000	2,573	2,421	60.53%
+
+
+TABLE 12- Battery Sprayer			9240011109	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	350	226	215	61.43%
+Week 2	350	130	121	34.57%
+15-May-25	50	1	1	2.00%
+16-May-25	50	0	0	0.00%
+17-May-25	50	1	1	2.00%
+18-May-25	50	0	0	0.00%
+19-May-25	50	1	1	2.00%
+20-May-25	50	0	0	0.00%
+Grand Total	1,000	359	339	33.90%
+
+
+TABLE 13- Power-Weeder- Raj			1416727772	
+Date	Target	Total Calls	Unique Calls	Achievement %
+Week 1	-	-	-	-
+Week 2	150	23	21	14.00%
+15-May-25	50	13	13	26.00%
+16-May-25	50	3	3	6.00%
+17-May-25	50	9	9	18.00%
+18-May-25	50	14	14	28.00%
+19-May-25	50	9	7	14.00%
+20-May-25	50	10	9	18.00%
+Grand Total	450	81	76	16.89%
+
+
